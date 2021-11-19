@@ -8,5 +8,5 @@ Membros do grupo C
 - Wallison Rodrigues Marra – RM340107
 
 ## AnyGO Delivery - Pitch
-[![Watch the video](https://img.youtube.com/vi/Uedgmf9UcUE/maxresdefault.jpg)](https://youtu.be/Uedgmf9UcUE)
+[![Watch the video](https://img.youtube.com/vi/Uedgmf9UcUE/0.jpg)](https://youtu.be/Uedgmf9UcUE)
 
